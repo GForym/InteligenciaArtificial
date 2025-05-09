@@ -5,7 +5,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import os
 
-# Configurar las variables de entorno para la caché de modelos
+//Configurar las variables de entorno para la caché de modelos
 os.environ["TRANSFORMERS_CACHE"] = "./model_cache"
 os.environ["HF_HOME"] = "./model_cache"
 
