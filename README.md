@@ -1,1 +1,2 @@
 # InteligenciaArtificial
+## Ejercicio pratcico 
