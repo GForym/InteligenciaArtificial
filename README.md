@@ -1,7 +1,7 @@
 # InteligenciaArtificial
 ## Ejercicio pratcico 
 ### Ejercicio 1: Configuración del Entorno y Carga de Modelo Base
-repuestas generadas por el codigo ejercicio 1
+##### repuestas generadas por el codigo ejercicio 1
 === Configuración inicial ===
 
 [!] No se detectó GPU. Usando CPU.
